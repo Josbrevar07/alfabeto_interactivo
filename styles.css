@@ -1,0 +1,77 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f0f8ff;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.ad-container img {
+  max-width: 300px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+#trainer-card {
+  background-color: #fff;
+  border: 2px solid #ccc;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 0 auto 20px;
+  max-width: 400px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+#trainer-card h2 {
+  font-size: 2em;
+  margin: 0;
+}
+
+#trainer-card p {
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 1em;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.feedback {
+  margin-top: 10px;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.controls {
+  margin-bottom: 30px;
+}
+
+footer {
+  font-size: 14px;
+  color: #555;
+  margin-top: 40px;
+}
+
+footer a {
+  color: blue;
+  text-decoration: none;
+}
+
+footer .web-links p {
+  margin: 5px 0;
+}
